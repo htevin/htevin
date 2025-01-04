@@ -3,12 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](placeholder)
-  - [osTicket: Post-Installation Configuration](placeholder)
-  - [osTicket: Ticket Lifecycle Examples](placeholder)
+  - [osTicket: Post-Installation Configuration](https://github.com/htevin/post-install-config.git)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/htevin/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](placeholder)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](placeholder)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/htevin/configure-ad.git)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/htevin/azure-network-protocols.git)
 
 <h2>👨‍💻 Side Coding Projects:</h2>
 
