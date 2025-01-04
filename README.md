@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Hi, I'm Tevin, an <a href="https://linkedin.com/in/tevin-hamilton">IT Professional</a>☺</h1> 
 
-<!--
-**htevin/htevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](placeholder)
+  - [osTicket: Post-Installation Configuration](placeholder)
+  - [osTicket: Ticket Lifecycle Examples](placeholder)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](placeholder)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](placeholder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Side Coding Projects:</h2>
+
+  - [Nike Storefront Clone](https://htevin.github.io/nike-storefront-build/)
+  - [Tevin's Library App](https://htevin.github.io/library-web-app/)
+  - [SuperHero Api](https://htevin.github.io/Superhero-Api-Frontend)
+
+
+
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Nemesio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/tevin-hamilton
+
+
+
+
