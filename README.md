@@ -3,6 +3,7 @@
 <h2>🛡️ Identity & Cloud Infrastructure Projects:</h2>
 
 - <b>Entra ID: IAM & RBAC Implementation Lab [Click Here To View ⬅️](https://github.com/htevin/enterprise-identity-management-lab)</b>
+- <b>Dynamic Groups & Access Management Lab [Click Here To View ⬅️](https://github.com/htevin/entra-id-dynamic-groups-lab/tree/main)</b>
 
 <h2>🤳Connect with me:</h2>
 
